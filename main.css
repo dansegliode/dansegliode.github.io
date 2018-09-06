@@ -1,15 +1,18 @@
 h1 {
     text-align: center;
     font-family: Cambria, Cochin, Times, serif;
-    font-size: 100px;
+    font-size: 80px;
     margin-top: 130px;
 }
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    position: absolute;
+    margin: auto;
+    width: 400px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
     border-radius: 4px;
 }
 
