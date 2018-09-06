@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Times, serif;
+    font-size: 60px;
+    margin-top: 130px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 4px;
+}
+
+figcaption {
+    color: gray;
+    text-align: center;
+    font-size: 13px;
+}
